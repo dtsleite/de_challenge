@@ -2,7 +2,7 @@
 
   * Step 1:
 
-Just clone this repo, go to folder just cloned and then from you linux terminal run: source start-env.sh
+Clone this repo, go to the folder you've just cloned and then from you linux terminal run: source start-env.sh
 
   * Step 2:
 
