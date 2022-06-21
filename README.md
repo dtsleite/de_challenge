@@ -15,4 +15,5 @@ the average number of trips per region
 
 * Linux OS
 * Python 3.x
+* virtualenv 20.14.1
 * PostgreSQL 14.4
